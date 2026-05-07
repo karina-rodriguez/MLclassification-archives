@@ -1,0 +1,55 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "applicationCategory": "SoftwareSourceCode,SoftwareApplication",
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Brighton",
+                "@type": "Organization"
+            },
+            "familyName": "Rodriguez",
+            "givenName": "Karina",
+            "@id": "https://github.com/karina-rodriguez",
+            "@type": "Person"
+        }
+    ],
+    "codeRepository": "https://github.com/karina-rodriguez/MLclassification-archives",
+    "dateCreated": "2025-12-16",
+    "identifier": "10.1145-3771993-mlclassification-archives",
+    "license": "https://spdx.org/licenses/Apache-2.0",
+    "name": "MLclassification-archives",
+    "programmingLanguage": "Python",
+    "referencePublication": [
+        {
+            "author": [
+                {
+                    "affiliation": {
+                        "name": "University of Brighton",
+                        "@type": "Organization"
+                    },
+                    "familyName": "Rodriguez Echavarria",
+                    "givenName": "Karina",
+                    "@id": "https://orcid.org/0000-0002-8679-1602",
+                    "@type": "Person"
+                },
+                {
+                    "affiliation": {
+                        "name": "University of Brighton",
+                        "@type": "Organization"
+                    },
+                    "familyName": "Samaroudi",
+                    "givenName": "Myrsini",
+                    "@id": "https://orcid.org/0000-0002-6716-4208",
+                    "@type": "Person"
+                }
+            ],
+            "datePublished": "2026-01-22",
+            "identifier": "10.1145/3771993",
+            "name": "Expanding Perspectives to Improve Access to Visual Archives through Multimodal Image Enrichment",
+            "url": "https://dl.acm.org/doi/10.1145/3771993",
+            "@type": "ScholarlyArticle"
+        }
+    ],
+    "issueTracker": "https://github.com/karina-rodriguez/MLclassification-archives/issues",
+    "@type": "SoftwareSourceCode"
+}
